@@ -25,6 +25,8 @@ st.write("The name on your Smoothie will be", name_on_order)
 #     max_selections=5
 # )
 
+ingredients_list = None #temp
+
 if ingredients_list:
     ingredients_string = ''
 

@@ -25,8 +25,6 @@ ingredients_list = st.multiselect(
     max_selections=5
 )
 
-ingredients_list = None #temp
-
 if ingredients_list:
     ingredients_string = ''
 
